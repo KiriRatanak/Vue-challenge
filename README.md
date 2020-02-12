@@ -8,8 +8,8 @@ This challenge is to help turn Vue js novice to master. After the completion of 
 ##### User story: 
 As a user, I want to input my name and click a button so that I can display it as a h1 text.
 ##### Success criteria:
-- Use v-on:click to update the h1 text when user click the button
-- Use data property in vue
+- :check:Use v-on:click to update the h1 text when user click the button
+- :check:Use data property in vue
 - Display 'No name' if the input form is empty
 - Do not use Vue Cli
 #### 1.2 Inline text editor
