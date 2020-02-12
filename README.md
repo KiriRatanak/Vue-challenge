@@ -3,11 +3,11 @@ This challenge is to help and give a clearer path to those who are struggling to
 # About
 This challenge is to help turn Vue js novice to master. After the completion of this challenge you will be able to understand the basic of vue and how it works as a whole.
 ## What will be cover
-- Directives
-- Component
-- Vue properties (eg: computed, methods, watch, etc)
-- Life cycles
-- File Structure
-- CRUD
-- Git
-- Making API call
+### 1.Directives
+### 2.Component
+### 3.Vue properties (eg: computed, methods, watch, etc)
+### 4.Life cycles
+### 5.File Structure
+### 6.CRUD
+### 7.Git
+### 8.Making API call
